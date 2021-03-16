@@ -1,0 +1,10 @@
+Sun, 2021-01-24 01:07:16 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:54164/session -> http://127.0.0.1:54164/session/55cd33a1-3159-4978-b185-be9267396173
+Sun, 2021-01-24 01:07:25 data_drivern_by_file.py[line:81] INFO 搜索“邓肯”，期望“蒂姆”通过
+Sun, 2021-01-24 01:07:35 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:54251/session -> http://127.0.0.1:54251/session/2e7f69d6-d915-487e-bb4f-caf3443705bf
+Sun, 2021-01-24 01:07:43 data_drivern_by_file.py[line:81] INFO 搜索“乔丹”，期望“迈克尔”通过
+Sun, 2021-01-24 01:07:54 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:54320/session -> http://127.0.0.1:54320/session/7e230c44-02bf-4457-82c2-9f2aa37288b1
+Sun, 2021-01-24 01:08:02 data_drivern_by_file.py[line:81] INFO 搜索“库里”，期望“斯蒂芬”通过
+Sun, 2021-01-24 01:08:12 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:54401/session -> http://127.0.0.1:54401/session/6c7abf74-6b8b-4e38-8869-dc5f95e7b5a0
+Sun, 2021-01-24 01:08:20 data_drivern_by_file.py[line:81] INFO 搜索“杜兰特”，期望“凯文”通过
+Sun, 2021-01-24 01:08:30 poolmanager.py[line:363] INFO Redirecting http://127.0.0.1:54477/session -> http://127.0.0.1:54477/session/d6ace96b-5c27-4f2a-a620-23591d719bc1
+Sun, 2021-01-24 01:08:38 data_drivern_by_file.py[line:81] INFO 搜索“詹姆斯”，期望“勒布朗”通过
